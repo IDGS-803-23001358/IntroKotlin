@@ -22,7 +22,7 @@ var fin:Boolean = false
 
 fun main(){
 val valor1 = 100
-val valor2 = 400
+val valor2 = 400 
 valores = valor1 + valor2    
 println("La suma de $valor1 + $valor2 = $res")
 }
